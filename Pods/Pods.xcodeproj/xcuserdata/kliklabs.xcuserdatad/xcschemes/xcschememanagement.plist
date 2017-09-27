@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>PMAlertController-PMAlertController.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>PMAlertController.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-localdatabase.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Realm.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>RealmSwift.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>67005224F02044798BD1B113C183408D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>99183593E3C04F0C7720EF0DA4A0159B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A4C7C89DAD512D7FE6768675DD8FE7B9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CF9281949784A86B3106FEBC617C8071</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D54FDD5C741942E89778C6F1AD56A429</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

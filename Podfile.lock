@@ -1,0 +1,20 @@
+PODS:
+  - PMAlertController (2.1.3)
+  - Realm (2.10.1):
+    - Realm/Headers (= 2.10.1)
+  - Realm/Headers (2.10.1)
+  - RealmSwift (2.10.1):
+    - Realm (= 2.10.1)
+
+DEPENDENCIES:
+  - PMAlertController
+  - RealmSwift
+
+SPEC CHECKSUMS:
+  PMAlertController: 424dd044c7e55cd318e7a028d3a231e540733115
+  Realm: fc7a317a5c2c9ba91f5f235ede4e2ea76e9eba0c
+  RealmSwift: 505ed6c15942a2e76f5cfa78a8667cfa997ee75b
+
+PODFILE CHECKSUM: 285d766622042959d7765e2b9e196d1412d8b521
+
+COCOAPODS: 1.2.1
